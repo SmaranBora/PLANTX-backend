@@ -1,1 +1,2 @@
-# PlantX-backend
+# PLANTX
+E-commerce website for plants
